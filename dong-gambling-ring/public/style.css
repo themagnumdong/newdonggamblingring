@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+nav {
+  background-color: #222;
+  padding: 10px;
+}
+.nav-tab {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+.nav-tab:hover {
+  text-decoration: underline;
+}
+.page-content {
+  margin-top: 50px;
+}
+.main-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #e60000;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
